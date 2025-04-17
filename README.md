@@ -2,6 +2,12 @@
 
 This project provides an interactive demonstration of V-JEPA (Video-based Joint-Embedding Predictive Architecture), a PhD-level Artificial Machine Intelligence (AMI) that showcases how V-JEPA works for learning visual representations from video data.
 
+![VJEPA version3](https://github.com/user-attachments/assets/c71e6e2b-6aa5-4dc7-81e4-c809f146b87e)
+![VJEPA version2](https://github.com/user-attachments/assets/7f922e7c-6d79-441b-8993-9d44e34ecac1)
+![VJEPA TechDetails](https://github.com/user-attachments/assets/a8f9705d-e67b-4f8f-bc05-fe946fcac4e4)
+![VJEPA EduDetails](https://github.com/user-attachments/assets/677a2150-1703-4164-9e25-698b18f6b933)
+
+
 ## Overview
 
 V-JEPA extends the Joint-Embedding Predictive Architecture (JEPA) principle from images to video, training a visual encoder by predicting masked spatio-temporal regions of a video within a learned representation space, rather than reconstructing pixels. This latent prediction strategy aims to capture more semantic information by ignoring unpredictable pixel-level details.
